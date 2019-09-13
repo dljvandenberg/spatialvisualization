@@ -1,0 +1,17 @@
+jupyter
+RISE
+matplotlib
+numpy
+pandas
+geopandas
+shapely
+descartes
+mplleaflet
+folium
+world_bank_data
+google-api-python-client
+earthengine-api
+osmxtract
+plotly
+pyCrypto                 # Optional, only needed in case proper crypto libraries cannot be found
+#rtree                   # Installing rtree can cause library conflict ('OSError: Could not find libspatialindex_c library file' during geopandas import)

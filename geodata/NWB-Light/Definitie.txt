@@ -1,0 +1,6 @@
+Productnaam          : BN0113-l 
+Aanvraagdatum        : 04-12-2018 08:24:23 
+Gebruikte Parameters : 
+Peildatum                                : 01-12-2018
+Wegbeheerdersoort                        : 'R', 'P'
+Filter max afstand (m)                   : 500
