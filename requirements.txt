@@ -14,4 +14,4 @@ earthengine-api
 osmxtract
 plotly
 pyCrypto                 # Optional, only needed in case proper crypto libraries cannot be found
-#rtree                   # Installing rtree can cause library conflict ('OSError: Could not find libspatialindex_c library file' during geopandas import)
+#rtree                   # Installing rtree can cause library conflict ('OSError: Could not find libspatialindex_c library file' during geopandas import; on Mac this can be fixed by command 'brew install spatialindex')
